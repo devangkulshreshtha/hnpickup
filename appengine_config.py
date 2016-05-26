@@ -3,4 +3,4 @@
 ## copy data from 
 ## one app to the other
 ## (http://code.google.com/appengine/docs/adminconsole/datastoreadmin.html)
-remoteapi_CUSTOM_ENVIRONMENT_AUTHENTICATION = ('HTTP_X_APPENGINE_INBOUND_APPID', ['quantum-potion-132317'])
+remoteapi_CUSTOM_ENVIRONMENT_AUTHENTICATION = ('HTTP_X_APPENGINE_INBOUND_APPID', ['-potion-132317'])
